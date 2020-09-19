@@ -8,6 +8,7 @@
       - :white_check_mark: Added links to my social networks (but no one subscribes:unamused:)
       - :white_check_mark: Ported the Spotify player
       - :white_check_mark: Figured out how Spacehuhn wrote its website (invaluable experience:sunglasses:)
+      - :white_check_mark: Add T-Rex Game 
       
    - What I didn't do (left by Spacehuhn)
       - :x: Didn't change the background and animations
