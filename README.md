@@ -1,7 +1,4 @@
 # My Personnal site and about
-## :heavy_exclamation_mark: Please read the information provided
-    So far, my site is an adaptation of the Spacehuhn site, but soon I will create my own site and design. 
-    But since I don't have a team, I do everything alone so wait!
  ### :white_check_mark: URL - [touch](https://alekszavg.github.io)
  ## What i doed new on my site
    - What i doed?
