@@ -1,6 +1,6 @@
 /* ===== Fonts ===== */
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 /* ===== Background ===== */
 p { color: #757575; }
@@ -26,9 +26,9 @@ html, body {
 
 /* ===== Website ===== */
 html {
-  font-family: 'Comic Neue', sans-serif;
-  font-size: 1.15rem;
-  line-height: 1.45rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.08rem;
+  line-height: 1.25rem;
   /* Prevent user from highlighting anything */
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -40,18 +40,18 @@ html {
 
 body {
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  min-height: 550px;
-  min-width: 470px;
-  height: 100vh;
+  min-height: 500px;
+  min-width: 400px;
+  height: 99vh;
   overflow: hidden !important;
 }
 
 #content {
   position: absolute;
   top: 0;
-  width: 100%;
-  height: 100%;
-  min-width: 400px;
+  width: 101%;
+  height: 96%;
+  min-width: 350px;
   z-index: 98;
   color: #eee;
   text-align: center;
@@ -60,22 +60,22 @@ body {
 }
 
 article {
-  padding-top: 15vh;
-  min-height: 100vh;
+  padding-top: 5vh;
+  min-height: 90vh;
 }
 
 section {
   color: #eee;
-  padding: 5vh 5%;
-  width: 80%;
-  margin: 0 5%;
+  padding: 5vh 1%;
+  width: 75%;
+  margin: 0 12%;
 }
 
 section img {
   height: auto;
   width: auto;
-  max-width: 128px;
-  max-height: 128px;
+  max-width: 130px;
+  max-height: 130px;
 }
 
 /* ===== Spacehuhn Bounce ====== */
@@ -85,7 +85,7 @@ section img {
   }
 
   51% {
-    transform: translateY(0.4rem);
+    transform: translateY(0.5rem);
   }
 }
 
@@ -98,7 +98,7 @@ section img {
 }
 
 h1 {
-  font-family: 'Bungee', cursive;
+  font-family: 'Roboto', cursive;
   font-size: 3rem;
   line-height: 3rem;
   letter-spacing: 0.6rem;
@@ -107,14 +107,14 @@ h1 {
 }
 
 h2 {
-  font-family: 'Bungee', cursive;
-  font-size: 2.5rem;
-  line-height: 2rem;
+  font-family: 'Roboto', cursive;
+  font-size: 2.9rem;
+  line-height: 3rem;
   margin: 2rem 0;
 }
 
 h3 {
-  font-family: 'Bungee', cursive;
+  font-family: 'Roboto', cursive;
   font-size: 2rem;
 }
 
@@ -128,12 +128,12 @@ h3+p {
 }
 
 p {
-  max-width: 36rem;
+  max-width: 35rem;
   margin: 0 auto;
 }
 
 a {
-  font-family: 'Bungee', cursive;
+  font-family: 'Roboto', cursive;
   text-decoration: none;
   color: #eee;
 }
@@ -143,7 +143,7 @@ a:hover {
 }
 
 button {
-  font-family: 'Bungee', cursive;
+  font-family: 'Roboto', cursive;
   background: transparent;
   border: none;
   color: #eee;
@@ -206,5 +206,5 @@ hr {
   background-image: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
   border: 0;
   height: 3px;
-  width: 65%;
+  width: 60%;
 }
