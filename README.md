@@ -17,7 +17,7 @@
    - What I didn't do (left by Spacehuhn)
       - :x: ~~Didn't change the background and animations~~
       - :x: ~~Didn't change the design and style~~
-      - :x: Structure
+      - :x: Icons
 ## And pictures of my site
 ### Old version
 ![Screenshot_3](https://user-images.githubusercontent.com/40857994/93467016-7da60480-f930-11ea-9ce0-dae640cbaec2.png)
