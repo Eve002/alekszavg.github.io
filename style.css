@@ -1,0 +1,210 @@
+/* ===== Fonts ===== */
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
+/* ===== Background ===== */
+p { color: #757575; }
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 80%;
+  height: 80%;
+  min-height: 500px;
+  min-width: 400px;
+  overflow: hidden;
+}
+
+#sky {
+  background: #0e0e0f;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* ===== Website ===== */
+html {
+  font-family: 'Comic Neue', sans-serif;
+  font-size: 1.08rem;
+  line-height: 1.25rem;
+  /* Prevent user from highlighting anything */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+body {
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  min-height: 500px;
+  min-width: 400px;
+  height: 100vh;
+  overflow: hidden !important;
+}
+
+#content {
+  position: absolute;
+  top: 0;
+  width: 99%;
+  height: 96%;
+  min-width: 350px;
+  z-index: 98;
+  color: #eee;
+  text-align: center;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+article {
+  padding-top: 15vh;
+  min-height: 90vh;
+}
+
+section {
+  color: #eee;
+  padding: 5vh 1%;
+  width: 75%;
+  margin: 0 11%;
+}
+
+section img {
+  height: auto;
+  width: auto;
+  max-width: 130px;
+  max-height: 130px;
+}
+
+/* ===== Spacehuhn Bounce ====== */
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+
+  51% {
+    transform: translateY(0.5rem);
+  }
+}
+
+#home>img {
+  height: 10rem;
+}
+
+#home>img:hover {
+  animation: bounce 2s infinite;
+}
+
+h1 {
+  font-family: 'Comic Neue', cursive;
+  font-size: 3rem;
+  line-height: 3rem;
+  letter-spacing: 0.6rem;
+  color: #eee;
+  margin: 2rem 0;
+}
+
+h2 {
+  font-family: 'Comic Neue', cursive;
+  font-size: 2.9rem;
+  line-height: 3rem;
+  margin: 2rem 0;
+}
+
+h3 {
+  font-family: 'Comic Neue', cursive;
+  font-size: 2rem;
+}
+
+#partners h3 {
+  font-family: 'Comic Neue', sans-serif;
+}
+
+h3+p {
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+p {
+  max-width: 35rem;
+  margin: 0 auto;
+}
+
+a {
+  font-family: 'Comic Neue', cursive;
+  text-decoration: none;
+  color: #eee;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+button {
+  font-family: 'Comic Neue', cursive;
+  background: transparent;
+  border: none;
+  color: #eee;
+  cursor: pointer;
+}
+
+#backbutton {
+  position: sticky;
+  top: 1rem;
+  margin-right: 1.5rem !important;
+  float: right;
+}
+
+.links {
+  color: #eee;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.links a, #backbutton {
+  color: #eee;
+  text-transform: uppercase;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  background: rgba(220, 220, 255, 0.2);
+  padding: 0.5rem;
+  margin: 0.2rem 0.2rem;
+  display: inline-block;
+}
+
+.links a:hover {
+  background: rgba(220, 220, 255, 0.3);
+}
+
+.socialmedia {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  height: 3rem;
+}
+
+.socialmedia a {
+  height: 3rem;
+  margin: 0 0.25rem;
+  display: inline-block;
+  border: 3px solid transparent;
+  border-radius: 100%;
+  background: rgba(220, 220, 255, 0.2);
+}
+
+.socialmedia a:hover {
+  background: rgba(220, 220, 255, 0.3);
+}
+
+.socialmedia img {
+  height: 3rem;
+}
+
+hr {
+  height: 8px;
+  background-image: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  border: 0;
+  height: 3px;
+  width: 60%;
+}
