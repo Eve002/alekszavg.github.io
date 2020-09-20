@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono&display=swap');
+
+@font-face {
+    font-family: SquaredDisplay;
+    src: url(Squared_Display.ttf);
+}
+
+:root {
+	/*--green: #0aac42;*/
+	--green: #00a2a2;
+	/* #00897b */
+}
+
+body {
+	font-family: 'Space Mono', monospace;
+	font-size: 1em;
+	background: #1e1e1e;
+	color: #fbfbfb;
+	max-width: 55vw;
+	margin: 50px auto 0 auto;
+	display: flex;
+	flex-direction: column;
+	text-align: justify
+}
+
+main {
+	flex: 1;
+	margin: 32px 0;
+}
+
+footer {
+	display: flex;
+	flex-flow: row wrap;
+	margin-bottom: 16px;
+	font-size: 0.8em;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.4em;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
+h4 {
+	font-size: 1.0em;
+}
+
+h5 {
+	font-size: 0.8em;
+}
+
+a {
+    text-decoration: none;
+    color: var(--green);
+}
+
+a:hover {
+    text-decoration: dashed underline;
+}
+
+.left {
+	text-align: left;
+}
+
+.project-content {
+	display: none;
+}
+
+.project-content h2 {
+	font-size: 1.2em;
+}
+
+.project-content h2:before {
+	content: 'Project Information: ';
+}
+
+.project-list {
+	list-style: disclosure-closed;
+}
+
+.project-btn {
+    text-decoration: none;
+    color: var(--green);
+}
+
+.project-btn:hover {
+	text-decoration: dashed underline;
+	cursor: pointer;
+}
+
+.logo {
+	font-family: SquaredDisplay;
+	font-size: calc(48px + (96 - 48) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.logo .i {
+	color: var(--green);
+}
+
+.logo a {
+    text-decoration: none;
+    color: #fbfbfb;
+}
+
+.logo a:hover {
+    text-decoration: none;
+}
+
+#pgp-fingerprint {
+	word-break: break-word;
+}
+
+.pgp-block {
+	margin-right: 6px;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.wallets {
+	text-align: left;
+}
+
+.wallet {
+    color: var(--green);
+	text-decoration: none;
+	overflow-wrap: break-word;
+}
+
+.wallet:hover {
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.social {
+	font-size: 0.8em;
+}
+
+td {
+	padding: 5px 10px;
+	border: dotted 2px;
+}
+
+tbody tr:first-child {
+	background: #151111;
+}
+
+.post-title {
+	letter-spacing: -2px;
+}
+
+@media only screen and (max-width: 768px), (min-device-width: 768px) and (max-device-width: 1024px) {
+	body {
+		max-width: 90vw;
+	}
+
+	h1, h2, h3, h4 {
+		text-align: left;
+	}
+
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+} 
