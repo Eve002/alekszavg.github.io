@@ -13,6 +13,9 @@
       - :white_check_mark: Changed the background
       - :white_check_mark: Removed the animation
       - :white_check_mark: Turned it into dark mode
+      - :white_check_mark: Add russian lang
+      - :white_check_mark: Add more games with AI
+      - :white_check_mark: Removed "GO BACK" button, beacuse github limit on the number of files
       
    - What I didn't do (left by Spacehuhn)
       - :x: ~~Didn't change the background and animations~~
