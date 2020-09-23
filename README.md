@@ -18,8 +18,6 @@
       - :white_check_mark: Added yandex search meta-tag
       
    - What I didn't do (left by Spacehuhn)
-      - :x: ~~Didn't change the background and animations~~
-      - :x: ~~Didn't change the design and style~~
       - :x: Icons
 ## And pictures of my site
 ![Screenshot_20](https://user-images.githubusercontent.com/40857994/93990108-14aa0b00-fdce-11ea-86dd-0efe2e4e4976.png)
