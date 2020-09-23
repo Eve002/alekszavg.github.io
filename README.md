@@ -2,9 +2,8 @@
  ### :white_check_mark: URL - [touch](https://alekszavg.github.io)
  ## What i doed new on my site
    - What i doed?
-      - :white_check_mark: Changed the number of points
       - :white_check_mark: I did image processing in Photoshop
-      - :white_check_mark: Left links to the original site, where I took the source code
+      - :white_check_mark: Saved links to the original site, where I took the source code
       - :white_check_mark: Added links to my social networks (but no one subscribes:unamused:)
       - :white_check_mark: Ported the Spotify player
       - :white_check_mark: Figured out how Spacehuhn wrote its website (invaluable experience:sunglasses:)
@@ -15,7 +14,7 @@
       - :white_check_mark: Turned it into dark mode
       - :white_check_mark: Add russian lang
       - :white_check_mark: Add more games with AI
-      - :white_check_mark: Removed "GO BACK" button, beacuse github limit on the number of files
+      - :white_check_mark: Removed "GO BACK" button
       - :white_check_mark: Added yandex search meta-tag
       
    - What I didn't do (left by Spacehuhn)
