@@ -16,15 +16,12 @@
       - :white_check_mark: Add russian lang
       - :white_check_mark: Add more games with AI
       - :white_check_mark: Removed "GO BACK" button, beacuse github limit on the number of files
+      - :white_check_mark: Added yandex search meta-tag
       
    - What I didn't do (left by Spacehuhn)
       - :x: ~~Didn't change the background and animations~~
       - :x: ~~Didn't change the design and style~~
       - :x: Icons
 ## And pictures of my site
-### Old version
-![Screenshot_3](https://user-images.githubusercontent.com/40857994/93467016-7da60480-f930-11ea-9ce0-dae640cbaec2.png)
-![Screenshot_4](https://user-images.githubusercontent.com/40857994/93467057-8e567a80-f930-11ea-92db-5f9967b8c62f.png)
-### New version
-![Screenshot_13](https://user-images.githubusercontent.com/40857994/93692269-4acc5e00-fb34-11ea-864f-f386cbecc785.png)
-![Screenshot_14](https://user-images.githubusercontent.com/40857994/93692268-499b3100-fb34-11ea-8f6b-35a4b533c7ca.png)
+![Screenshot_20](https://user-images.githubusercontent.com/40857994/93990108-14aa0b00-fdce-11ea-86dd-0efe2e4e4976.png)
+![Screenshot_21](https://user-images.githubusercontent.com/40857994/93990105-1378de00-fdce-11ea-837e-584e43801158.png)
