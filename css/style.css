@@ -40,14 +40,14 @@ html {
 
 body {
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
   overflow: hidden;
 }
 
 #content {
   position: absolute;
-  top: 0;
+  top: auto;
   width: 100%;
   height: 100%;
   z-index: auto;
@@ -55,6 +55,7 @@ body {
   text-align: center;
   overflow-x: hidden;
   overflow-y: hidden;
+  margin-right: calc(-1 * (100vw - 100%));
 }
 
 article {
