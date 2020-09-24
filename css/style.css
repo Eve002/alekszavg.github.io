@@ -36,6 +36,7 @@ html {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+
 }
 
 body {
@@ -53,9 +54,8 @@ body {
   z-index: auto;
   color: #eee;
   text-align: center;
-  overflow-x: hidden;
-  overflow-y: hidden;
-  margin-right: calc(-1 * (100vw - 100%));
+  overflow-x: auto;
+  overflow-y: auto;
 }
 
 article {
