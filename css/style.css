@@ -5,8 +5,8 @@
 /* ===== Background ===== */
 p { color: #757575; }
 html, body {
-  margin: 0;
-  padding: 0;
+  margin: auto;
+  padding: auto;
   width: auto;
   height: auto;
   min-height: auto;
@@ -28,7 +28,7 @@ html, body {
 html {
   font-family: 'Roboto', sans-serif;
   font-size: 1.00rem;
-  line-height: 1.45rem;
+  line-height: 1.40rem;
   /* Prevent user from highlighting anything */
   -webkit-touch-callout: none;
   -webkit-user-select: none;
