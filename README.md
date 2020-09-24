@@ -21,6 +21,5 @@
 
    - What I didn't do (left by Spacehuhn)
       - :x: Icons
-## And pictures of my site
+## And picture of my site
 ![Screenshot_20](https://user-images.githubusercontent.com/40857994/93990108-14aa0b00-fdce-11ea-86dd-0efe2e4e4976.png)
-![Screenshot_21](https://user-images.githubusercontent.com/40857994/93990105-1378de00-fdce-11ea-837e-584e43801158.png)
