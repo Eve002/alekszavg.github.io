@@ -16,6 +16,7 @@
       - :white_check_mark: Add more games with AI
       - :white_check_mark: Removed "GO BACK" button
       - :white_check_mark: Added yandex search meta-tag
+      - :white_check_mark: Added Ai-Air-Hockey (by ![KaANO-8](https://github.com/KaANO-8/airHockey))
       
    - What I didn't do (left by Spacehuhn)
       - :x: Icons
