@@ -11,12 +11,12 @@ html, body {
   height: auto;
   min-height: auto;
   min-width: auto;
-  overflow: auto;
+  overflow: hidden;
 }
 
 #sky {
   background: #0e0e0f;
-  overflow: auto;
+  overflow: hidden;
   position: absolute;
   left: 0;
   top: 0;
@@ -42,7 +42,7 @@ body {
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   height: auto;
   width: auto;
-  overflow: auto;
+  overflow: hidden;
 }
 
 #content {
@@ -53,8 +53,8 @@ body {
   z-index: auto;
   color: #eee;
   text-align: center;
-  overflow-x: auto;
-  overflow-y: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 article {
