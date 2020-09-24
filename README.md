@@ -7,17 +7,18 @@
       - :white_check_mark: Added links to my social networks (but no one subscribes:unamused:)
       - :white_check_mark: Ported the Spotify player
       - :white_check_mark: Figured out how Spacehuhn wrote its website (invaluable experience:sunglasses:)
-      - :white_check_mark: Add T-Rex Game (With Bot)
       - :white_check_mark: Added fonts
       - :white_check_mark: Changed the background
       - :white_check_mark: Removed the animation
       - :white_check_mark: Turned it into dark mode
       - :white_check_mark: Add russian lang
-      - :white_check_mark: Add more games with AI
       - :white_check_mark: Removed "GO BACK" button
       - :white_check_mark: Added yandex search meta-tag
       - :white_check_mark: Added Ai-Air-Hockey (by [KaANO-8](https://github.com/KaANO-8/airHockey))
-      
+      - :white_check_mark: Added T-Rex Game with bot (by [chirag64](https://github.com/chirag64/t-rex-runner-bot))
+      - :white_check_mark: Added AiSnake (by [DmitryNizhebovsky](https://github.com/DmitryNizhebovsky/AiSnake))
+      - :white_check_mark: Added AI Plays FlappyBird (by [TsReaper](https://github.com/TsReaper/AI-Plays-FlappyBird))
+
    - What I didn't do (left by Spacehuhn)
       - :x: Icons
 ## And pictures of my site
