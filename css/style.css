@@ -11,7 +11,7 @@ html, body {
   height: auto;
   min-height: auto;
   min-width: auto;
-  overflow: hidden;
+  overflow: auto;
 }
 
 #sky {
@@ -43,7 +43,7 @@ body {
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   height: 100%;
   width: 100%;
-  overflow: hidden;
+  overflow: auto;
 }
 
 #content {
