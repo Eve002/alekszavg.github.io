@@ -18,6 +18,7 @@
       - :white_check_mark: Added T-Rex Game with bot (by [chirag64](https://github.com/chirag64/t-rex-runner-bot))
       - :white_check_mark: Added AiSnake (by [DmitryNizhebovsky](https://github.com/DmitryNizhebovsky/AiSnake))
       - :white_check_mark: Added AI-Plays-FlappyBird (by [TsReaper](https://github.com/TsReaper/AI-Plays-FlappyBird))
+      - :white_check_mark: Added AI-chess (by [aslushnikov](https://github.com/aslushnikov/chess))
 
    - What I didn't do (left by Spacehuhn)
       - :x: Icons
