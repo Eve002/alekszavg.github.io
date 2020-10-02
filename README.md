@@ -1,7 +1,7 @@
-# My Personnal site and about
+# My Personal site and about :-
  ### :white_check_mark: URL - [touch](https://alekszavg.github.io)
- ## What i doed new on my site
-   - What i doed?
+ ## What i did new on my site :-
+   - What i did..?
       - :white_check_mark: I did image processing in Photoshop
       - :white_check_mark: Saved links to the original site, where I took the source code
       - :white_check_mark: Added links to my social networks (but no one subscribes:unamused:)
@@ -21,5 +21,5 @@
 
    - What I didn't do (left by Spacehuhn)
       - :x: Icons
-## And picture of my site
+## And picture of my site :-
 ![Screenshot_20](https://user-images.githubusercontent.com/40857994/93990108-14aa0b00-fdce-11ea-86dd-0efe2e4e4976.png)
